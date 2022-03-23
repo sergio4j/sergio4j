@@ -1,5 +1,5 @@
 ### Hola 👋, Me llamo Sergio
-#### Y soy un Programador un Full Stack Developer 🚀
+#### Y soy un Programador un Full Stack 🚀
 ![SergiorsWeb](https://media-exp1.licdn.com/dms/image/C4D16AQHMhM27y0goPw/profile-displaybackgroundimage-shrink_200_800/0/1641574936225?e=1653523200&v=beta&t=YBwkzJcpt7CGrIp2VRcFhBF6WVKlqkJC6qwFkPmjHpk)
 
 👨‍💻 Programador Full Stack SEO , apasionado de la programación web y el mundo tecnológico.
