@@ -11,7 +11,7 @@ Mi gran parte de tiempo libre lo dedico a aprender más, realizar proyectos y we
 🔵 Habilidades: PHP/ Laravel/ JS / HTML / CSS / Bootstrap / Mysql
 
 - 🔭 Estoy trabajando en desarrollos propios con laravel 8
-- 📹 En mis ratos libres comparto mi conocimiento a principiantes en mi canal de YouTube -> [SergiorsWeb](https://www.youtube.com/channel/UCqRcrD1qdy7RobtyT50iwAw/videos) 🔴
+- 📹 En mis ratos libres comparto mi conocimiento a principiantes en mi canal de YouTube -> [SergioDevWeb](https://www.youtube.com/channel/UCqRcrD1qdy7RobtyT50iwAw/videos) 🔴
 - 💻 Puedes conocer mas sobre mí en mi web principal [www.sergiors.com](www.sergiors.com)
 
 
